@@ -1,0 +1,10 @@
+{
+  "name": "javascript-example",
+  "scripts": {
+    "start": "node ./src/quickstart.js",
+    "mergeBlock": "node ./src/mergeBlock.js"
+  },
+  "dependencies": {
+    "@lcap/asl": "^0.3.7"
+  }
+}
