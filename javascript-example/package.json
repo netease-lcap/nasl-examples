@@ -5,6 +5,6 @@
     "mergeBlock": "node ./src/mergeBlock.js"
   },
   "dependencies": {
-    "@lcap/asl": "^0.3.7"
+    "@lcap/nasl": "^0.3.10"
   }
 }
